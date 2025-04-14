@@ -19,7 +19,7 @@ soodaryan-kg/
     ├── frameworks.txt        # Response framework document
     ├── sample_data.txt       # Sample queries and responses
     └── secret_manual.txt     # Secret information manual
-``
+```
 ---
 
 ## 🚀 Features
@@ -41,19 +41,18 @@ soodaryan-kg/
    ```bash
    git clone https://github.com/yourusername/soodaryan-kg.git
    cd soodaryan-kg
-   ``
+   ```
 
 2. **Create a Virtual Environment**:
    ```bash
    python3 -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ``
+   ```
 
 3. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
-   ``
-
+   ```
 ---
 
 ## 🧪 Usage
@@ -64,8 +63,7 @@ soodaryan-kg/
 2. **Run the Application**:
    ```bash
    python main.py
-  ```
-
+   ```
 3. **Interact with the System**:
   - Input your agent level when promted.
   - Submit your classified qery.

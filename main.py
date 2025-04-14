@@ -11,4 +11,4 @@ if __name__ == "__main__":
     asyncio.run(process_document(text, "French revolution", graph, chunk_size=500, chunk_overlap=100))
     
     # to clear graph for new iteration 
-    clear_graph(graph)
+    # clear_graph(graph)
