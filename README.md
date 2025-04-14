@@ -1,10 +1,9 @@
 # 🕶️ Project SHADOW: Secure Hybrid Agentic Document-Oriented Retrieval System
-Project SHADOW is a secure, modular intelligence retrieval system designed for classified operationsIt integrates Retrieval-Augmented Generation (RAG) techniques with agent-level access control, combining vector similarity and graph-based retrieval to provide transparent and justified responses to intelligence queries
+Project SHADOW is a secure, modular intelligence retrieval system designed for classified operationsIt integrates Retrieval-Augmented Generation (RAG) techniques with agent-level access control, combining vector similarity and graph-based retrieval to provide transparent and justified responses to intelligence queries
 
 ---
 
 ## 📁 Project Structure
-
 ```
 soodaryan-kg/
 ├── README.md
@@ -21,8 +20,6 @@ soodaryan-kg/
     ├── sample_data.txt       # Sample queries and responses
     └── secret_manual.txt     # Secret information manual
 ``
-
-
 ---
 
 ## 🚀 Features
@@ -45,20 +42,17 @@ soodaryan-kg/
    git clone https://github.com/yourusername/soodaryan-kg.git
    cd soodaryan-kg
    ``
-
 
 2. **Create a Virtual Environment**:
    ```bash
    python3 -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ``
-
 
 3. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
    ``
-
 
 ---
 
@@ -71,7 +65,6 @@ soodaryan-kg/
    ```bash
    python main.py
   ```
-
 
 3. **Interact with the System**:
   - Input your agent level when promted.
